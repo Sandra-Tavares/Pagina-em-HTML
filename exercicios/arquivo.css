@@ -17,3 +17,14 @@ https {
     color: blue; 
     font-size: 24px; 
 }
+body {
+    margin-left: 20px;
+    padding: 20px; 
+}
+p {
+    line-height: 1; 
+}
+
+a:hover {
+    color: blue; 
+}
