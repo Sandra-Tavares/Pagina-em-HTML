@@ -1,3 +1,41 @@
+.margem_corpo {
+   margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border: 4xp solid rgb(220, 200, 184);
+}
 
+.foto {
+    display: flex;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    margin-left: 10px;
+    
+}
 
+.texto {
+   
+    text-align: center;
+    font-size: 0.8rem;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(229, 115, 21); 
+    margin-left: 100px;
+}
 
+.fundo1 {
+   
+    background-color: rgb(238, 236, 195);
+    
+}
+.subtitulos  {
+    font-family: 'Raleway', sans-serif;
+    font-size: 0.8rem;
+    color: rgb(229, 115, 21);
+    margin-top: -5px;
+}
+
+.texto_body {
+    margin-left: 10px;
+    margin-right: 10px;
+}
